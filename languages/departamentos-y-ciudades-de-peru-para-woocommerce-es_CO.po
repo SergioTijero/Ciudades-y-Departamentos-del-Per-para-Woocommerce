@@ -13,19 +13,19 @@ msgstr ""
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.2.0; wp-5.0.3"
 
-#: ciudades-del-peru-para-woocommerce-2021.php:57
+#: ciudades-del-peru-para-wc-2021.php:57
 msgid ""
 "<strong>Te gustaria conectar tu tienda con las principales transportadoras "
 "del país ?.\n"
 "        Sé uno de los primeros</strong> "
 msgstr ""
 
-#: ciudades-del-peru-para-woocommerce-2021.php:59
+#: ciudades-del-peru-para-wc-2021.php:59
 #, php-format
 msgid "%s"
 msgstr ""
 
-#: ciudades-del-peru-para-woocommerce-2021.php:61
+#: ciudades-del-peru-para-wc-2021.php:61
 msgid "Suscribete Gratis"
 msgstr ""
 
